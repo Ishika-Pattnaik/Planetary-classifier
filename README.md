@@ -21,10 +21,10 @@ The goal is to automate the classification using machine learning models.
     - Logistic Regression  
 
 3. **Evaluation Metrics:**  
-    - Accuracy  
-    - Precision  
-    - Recall  
-    - F1 Score  
+    - Accuracy=  0.8633
+    - Precision=  0.8635
+    - F1 Score=  0.8633
+    - Recall=  0.8633 
 
 4. **Feature Importance:**  
     - Visualized top contributing features using Random Forest.
